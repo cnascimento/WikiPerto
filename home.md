@@ -10,7 +10,7 @@ public class Test
 {
   public Test()
   {
-    
+	    console.log("Hello Wiki!");
   }
 }
 ```
